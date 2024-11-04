@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**tglam03/tglam03**
+**Nguyen Duc Tung Lam**
 - 🌱 I’m currently learning FPT Polytechnic
 - 🚩 My contact: nguyenductunglam94@gmail.com
   
