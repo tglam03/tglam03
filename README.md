@@ -2,7 +2,7 @@
 
 **tglam03/tglam03**
 - 🌱 I’m currently learning FPT Polytechnic
-- 🚩 My contacT: nguyenductunglam94@gmail.com
+- 🚩 My contact: nguyenductunglam94@gmail.com
   
 
 ## 🌐Socials
