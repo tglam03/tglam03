@@ -2,6 +2,8 @@
 
 **tglam03/tglam03**
 - 🌱 I’m currently learning FPT Polytechnic
+- 🚩 My contacT: nguyenductunglam94@gmail.com
+  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100019088982806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguyen-duc-tung-lam-355b84309/) 
