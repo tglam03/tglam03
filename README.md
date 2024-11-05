@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**I'm Nguyen Duc Tung Lam**
 - 👨‍💻 I'm Web Programmer
 - 🌱 I’m currently learning FPT Polytechnic
 - 🚩 My contact: nguyenductunglam94@gmail.com
